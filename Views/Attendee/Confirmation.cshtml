@@ -1,0 +1,19 @@
+﻿@model Attendee
+@{
+    ViewData["Title"] = "Confirmation";
+}
+
+<div class="text-center">
+    <h3>, you have been registered!</h3>
+    <p>
+        @if (Model.CapacityId == 1) 
+        {
+            @:Please check your inbox for payment details.
+        }
+        else
+        {
+            @:As a student, you will abe able to attend the conference for free!
+        }
+        </p>
+    <p><a class="btn btn-success" asp-action="AttendeeList">Check list of attendees</a></p>
+</div>

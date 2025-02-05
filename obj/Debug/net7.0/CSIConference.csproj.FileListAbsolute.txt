@@ -1,0 +1,300 @@
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\libman.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.staticwebassets.runtime.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.exe
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.deps.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.runtimeconfig.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.pdb
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.AssemblyReference.cache
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cache
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cs
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.CSIConference.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.build.CSIConference.props
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CSIConference.props
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CSIConference.props
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\scopedcss\bundle\CSIConference.styles.css
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.CopyComplete
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\refint\CSIConference.dll
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.pdb
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.genruntimeconfig.cache
+C:\Users\Student\Source\Repos\CSIConference\CSIConference\obj\Debug\net7.0\ref\CSIConference.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.Development.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\libman.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.staticwebassets.runtime.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.exe
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.deps.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.runtimeconfig.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.pdb
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Core.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Identity.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Humanizer.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.CodeDom.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Memory.Data.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.AssemblyReference.cache
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.GeneratedMSBuildEditorConfig.editorconfig
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfoInputs.cache
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfo.cs
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.CoreCompileInputs.cache
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.MvcApplicationPartsAssemblyInfo.cache
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cache
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cs
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.CSIConference.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.build.CSIConference.props
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CSIConference.props
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CSIConference.props
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.pack.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.build.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.development.json
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\scopedcss\bundle\CSIConference.styles.css
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.CopyComplete
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\refint\CSIConference.dll
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.pdb
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.genruntimeconfig.cache
+D:\UFS\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\ref\CSIConference.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.Development.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\libman.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.staticwebassets.runtime.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.exe
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.deps.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.runtimeconfig.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.pdb
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Core.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Identity.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Humanizer.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.CodeDom.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Memory.Data.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.AssemblyReference.cache
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.GeneratedMSBuildEditorConfig.editorconfig
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfoInputs.cache
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfo.cs
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.CoreCompileInputs.cache
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.MvcApplicationPartsAssemblyInfo.cache
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cache
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cs
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.build.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.development.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.CSIConference.Microsoft.AspNetCore.StaticWebAssets.props
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.build.CSIConference.props
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CSIConference.props
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CSIConference.props
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.pack.json
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\scopedcss\bundle\CSIConference.styles.css
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConfe.D3EADE2C.Up2Date
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\refint\CSIConference.dll
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.pdb
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.genruntimeconfig.cache
+E:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\ref\CSIConference.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\refint\CSIConference.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.pdb
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.Development.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\appsettings.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\libman.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.staticwebassets.runtime.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.staticwebassets.endpoints.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.exe
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.deps.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.runtimeconfig.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\CSIConference.pdb
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Core.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Azure.Identity.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Humanizer.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.CodeDom.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Memory.Data.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.AssemblyReference.cache
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.GeneratedMSBuildEditorConfig.editorconfig
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfoInputs.cache
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.AssemblyInfo.cs
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.csproj.CoreCompileInputs.cache
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.MvcApplicationPartsAssemblyInfo.cache
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cache
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.RazorAssemblyInfo.cs
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\scopedcss\bundle\CSIConference.styles.css
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.build.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.development.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.CSIConference.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.CSIConference.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.build.CSIConference.props
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CSIConference.props
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CSIConference.props
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.pack.json
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConfe.D3EADE2C.Up2Date
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\CSIConference.genruntimeconfig.cache
+D:\UFS\2023\2023 Semester 1\Internet Programming\Assignments\CSIConference\CSIConference\obj\Debug\net7.0\ref\CSIConference.dll

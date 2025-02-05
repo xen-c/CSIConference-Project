@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<!-- CSIS3734 (2023): Assignment 1 -->
+<!-- ZP Cewuka 2017183852-->
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Bootstrap CSS -->
+    <link asp-href-include="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+
+    <!-- Font Awesome CSS -->
+    <link asp-href-include="lib/font-awesome/css/all.min.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link asp-href-include="css/custom.css" rel="stylesheet" />
+
+    <title>CSI - @ViewData["Title"]</title>
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-md bg-success navbar-dark">
+        <div class="container">
+            <!-- Brand -->
+            <a class="navbar-brand" asp-controller="Home" asp-action="Index">CSI Conference</a>
+
+            <!-- Toggler/collapsible Button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#MyNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="MyNavbar">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Attendee" asp-action="CheckRegistration">Register</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Unique content of each View to be displayed here -->
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
+    <footer class="container small">
+        <hr />
+        <div class="text-center">
+            <p>Created by: ZP. Cewuka (2017183852)</p>
+            <p><i class="fa-solid fa-copyright"></i> University of the Free State (2023)</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script asp-src-include="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
